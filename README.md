@@ -25,6 +25,8 @@ $ npm start
 At first, open developper console. Then push the button. After a while, mask will be shown.
 
 # Model
+
 BiseNetv2-Tensorflow
+
 https://github.com/MaybeShewill-CV/bisenetv2-tensorflow/blob/master/LICENSE
 
